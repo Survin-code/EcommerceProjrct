@@ -5,7 +5,6 @@ namespace ProductApi.Dto
 {
     public class addProductDto
     {
-
         [Required]
         public int Id { get; set; }
         [Required]
